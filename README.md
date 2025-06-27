@@ -1,6 +1,6 @@
 # TM Restaurant Website
 
-Welcome to the TM Restaurant website! This web application allows users to create an account, browse a menu, and place food orders. It is designed to provide an easy and interactive platform for users to order food from their favorite restaurant.
+This website allows users to create an account, browse a menu, and place food orders. It is designed to provide an easy and interactive platform for users to order food from their favorite restaurant.
 
 ## Features
 
